@@ -1,0 +1,11 @@
+{
+  "name": "Pretty Pastels",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Pastels on Dark with a vengeance",
+  "repository": "https://github.com/parasyte/pretty-pastels",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
