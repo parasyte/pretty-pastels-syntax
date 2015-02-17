@@ -4,4 +4,4 @@
 
 A dark syntax theme for Atom
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/parasyte/pretty-pastels-syntax/raw/master/screenshot.png)
